@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LauncherMamie</string>
+    <string name="accessibility_service_description">Click Home</string>
+    <string name="accessibility_service_name">Press home</string>
+</resources>
